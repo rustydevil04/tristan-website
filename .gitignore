@@ -1,7 +1,3 @@
 forums/cache/*
 .DS_Store
-forums/cache/production/data_cron.lock_check.php
-forums/cache/production/sql_819dc160ed61cca154e8c4eced23fc51.php
-forums/cache/production/sql_efd26735c3bcbef398e23fb85e7ccd99.php
-forums/cache/production/sql_f2afcd9dca7b065185632af0109d94ee.php
 forums/config.php
